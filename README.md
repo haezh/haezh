@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haezh
-- 👀 Know more about me from <https://haezh.github.io/resume/>
+- 👀 Know more about me from <https://haezh.github.io/resume/> professionaly, and <https://haezh.github.io/U-1F30F/> personally.
 - 🌱 I’m currently learning software architecture
 - 📖 Reading "Designing Data-Intensive Applications" from O'REILLY
 - 📮 Reach out to me via <xuqian.dev@gmail.com>
